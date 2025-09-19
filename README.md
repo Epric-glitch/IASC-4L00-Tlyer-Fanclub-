@@ -1,4 +1,5 @@
 # Bear Wit Me
+Explore the psyche of a 7-year-old child, escaping into an imaginative world, where reality may not be too far behind. Play as your favourite toy in a range of 2.5D platforming and minigames as you uncover a new sense of emotional awareness. As you navigate this dream-like atmosphere, watch out as your trauma seeps through.... 
 ## Producer:
 - Andre Montrichard (Lead)
 - Ryan Bokla
